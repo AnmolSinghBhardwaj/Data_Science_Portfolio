@@ -5,4 +5,4 @@ Data Science Portfolio von Anmol Singh Bhardwaj
 * Data from https://covid19.who.int/
 * Analysis of covid cases and deaths
 
-![](https://github.com/AnmolSinghBhardwaj/CovidDataAnalysis/blob/main/covid_cases.png)
+![](images/covid_cases.png)
