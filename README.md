@@ -1,5 +1,5 @@
 # Data Science Portfolio
-Data Science Portfolio from Anmol Singh Bhardwaj
+Data Science Portfolio of Anmol Singh Bhardwaj
 
 [Project #1: Data Analysis of covid cases in Germany](https://github.com/AnmolSinghBhardwaj/CovidDataAnalysis)
 * Data from https://covid19.who.int/
