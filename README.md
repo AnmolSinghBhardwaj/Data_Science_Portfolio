@@ -1,11 +1,16 @@
 # Data Science Portfolio
 Data Science Portfolio of Anmol Singh Bhardwaj
 
-[Project #1: Data Analysis of covid cases in Germany](https://github.com/AnmolSinghBhardwaj/CovidDataAnalysis)
-* Data from https://covid19.who.int/
-* Analysis of covid cases and deaths
+[Project #1: Data Analysis of Chelsea's Premier League Campaigns from 2006 to 2018](https://github.com/AnmolSinghBhardwaj/EDA_Chelsea)
 
-![](images/covid_cases.png)
+* Analysis of Chelsea's development from 2006 to 2018
+* Observation of wins and losses over the years and the assumption of the reason behind them
+* Comparison of home and away games 
+* Evaluation of home and away games against 'big six' teams
+* Data from https://www.kaggle.com/datasets/zaeemnalla/premier-league
+
+
+![](images/chelsea.jpg)
 
 
 
