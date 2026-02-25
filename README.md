@@ -2,8 +2,7 @@
 Data Science Portfolio of Anmol Singh Bhardwaj
 
 
-[Project #1 (Master Thesis): Music Segment Boundary Detection using Convolutional Neural Networks](Project not finished yet)
-
+[Project #1 (Master Thesis): Music Segment Boundary Detection using Convolutional Neural Networks (Project not finished yet)]
 * Automatic detection of instrument, key, and tempo changes in music tracks
 
 * Development of a CNN with multi-output heads for different musical dimensions
