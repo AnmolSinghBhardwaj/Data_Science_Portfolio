@@ -2,7 +2,7 @@
 Data Science Portfolio of Anmol Singh Bhardwaj
 
 
-[Project #1 (Master Thesis): Music Segment Boundary Detection using Convolutional Neural Networks](https://github.com/AnmolSinghBhardwaj/EDA_Chelsea)
+[Project #1 (Master Thesis): Music Segment Boundary Detection using Convolutional Neural Networks](Project not finished yet)
 
 * Automatic detection of instrument, key, and tempo changes in music tracks
 
@@ -18,7 +18,8 @@ Data Science Portfolio of Anmol Singh Bhardwaj
 
 * Framework built with Python, PyTorch, Pymoo, and Librosa
 
-![](images/chelsea.jpg)
+![](images/Screenshot 2026-02-25 143952.png)
+![](images/Screenshot 2026-02-25 144009.png)
 
 
 
