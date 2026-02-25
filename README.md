@@ -18,8 +18,8 @@ Data Science Portfolio of Anmol Singh Bhardwaj
 
 * Framework built with Python, PyTorch, Pymoo, and Librosa
 
-![](images/Screenshot 2026-02-25 143952.png)
-![](images/Screenshot 2026-02-25 144009.png)
+![](images/key_output.png)
+![](images/instr_output.png)
 
 
 
