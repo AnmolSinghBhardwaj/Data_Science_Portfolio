@@ -21,9 +21,26 @@ Data Science Portfolio of Anmol Singh Bhardwaj
 ![](images/instr_output.png)
 
 
+[Project #2: Lumbar Spine Segmentation from CT (L1–L5)](https://github.com/AnmolSinghBhardwaj/lumbar-spine-segmentation)
+* End-to-end pipeline for lumbar spine CT: data harmonisation, 3D segmentation of the vertebrae L1–L5, vertebral body centroids and cross-dataset evaluation
+
+* Unified loader for two public datasets (TotalSegmentator, VerSe) with differing orientations, voxel spacings, label conventions and scanners; systematic detection and handling of header and annotation anomalies
+
+* Preprocessing: reorientation to RAS, resampling to 2 mm isotropic, fixed HU windowing, lumbar cropping and removal of stray label fragments
+
+* Training of a 3D U-Net from scratch on patches with mixed precision and a Dice + cross-entropy loss (≈13 min on 2× T4 GPUs)
+
+* Rule-based extraction of the vertebral body from each predicted vertebra via a compactness profile along the anterior–posterior axis, with centroids in world coordinates (RAS, mm)
+
+* Evaluation in-domain (TotalSegmentator, Dice 0.89) and out-of-domain (VerSe, Dice 0.85), including failure analysis of level-shift errors at the field-of-view boundary
+
+* Framework built with Python, PyTorch, MONAI, NiBabel and SciPy
+
+![](images/bsp.png)
+![](images/png.png)
 
 
-[Project #2: Data Analysis of Chelsea's Premier League Campaigns from 2006 to 2018](https://github.com/AnmolSinghBhardwaj/EDA_Chelsea)
+[Project #3: Data Analysis of Chelsea's Premier League Campaigns from 2006 to 2018](https://github.com/AnmolSinghBhardwaj/EDA_Chelsea)
 
 * Analysis of Chelsea's development from 2006 to 2018
 * Observation of wins and losses over the years and the assumption of the reason behind them
@@ -36,7 +53,7 @@ Data Science Portfolio of Anmol Singh Bhardwaj
 
 
 
-[Project #3: Breast Cancer Prediction](https://github.com/AnmolSinghBhardwaj/BreastCancer_Prediction)
+[Project #4: Breast Cancer Prediction](https://github.com/AnmolSinghBhardwaj/BreastCancer_Prediction)
 * A classification modell wether a tumor is malignant (cancerous) or benign(non-cancerous).
 * Data is from https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset?resource=download
 * The machine learning algorithm is a logistic regression
